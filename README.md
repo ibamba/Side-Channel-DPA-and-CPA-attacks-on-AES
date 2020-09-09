@@ -9,7 +9,7 @@ There is several type of side channel attacks : Timming Attack, Power-analysis a
 The .h and .c files contain the source code of the attacks.
 The Makefile compile the sources code.
 The report file contains more detail on the techniques and algorithms used as well as the work achieved. Do not hesitate to read it, it can be very enriching.
-And finally, the .ipynb file is a jupyter file. It contains details on the work achieved before the attacks: the capture of traces, some tests ...
+And finally, the .ipynb files are jupyter files. It contains details on the work achieved before the attacks: the capture of traces, some tests ...
 
 ## Usage
 You can execute the code using the command : 
